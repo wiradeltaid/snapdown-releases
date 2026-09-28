@@ -1,0 +1,6 @@
+# Set default behavior to automatically normalize line endings to LF
+* text=auto eol=lf
+
+*.json text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
