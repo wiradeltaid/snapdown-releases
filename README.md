@@ -4,6 +4,8 @@ Turn a visual review into one Markdown file your coding agent can act on. For 64
 
 [Website](https://wiradelta.com/snapdown) | [Download](../../releases/latest) | [Changelog](CHANGELOG.md) | [EULA](EULA.md) | [Security](SECURITY.md) | [Privacy](PRIVACY.md)
 
+> **Cakupan Playbook:** Repositori rilis biner dan packaging bridge ini berada di luar cakupan aplikasi WDI Coding Playbook (Release Assets SSOT).
+
 ---
 
 This repository hosts the official Snapdown downloads: the installer, the portable executable, their
